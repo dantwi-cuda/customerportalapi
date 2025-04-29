@@ -1,0 +1,6 @@
+@CCICustomerPortalApi_HostAddress = http://localhost:5211
+
+GET {{CCICustomerPortalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
