@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {}
+    "C:\\work\\customerportalApi\\CustomerPortal.AppHost\\CustomerPortal.AppHost.csproj": {}
   },
   "projects": {
-    "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {
+    "C:\\work\\customerportalApi\\CustomerPortal.AppHost\\CustomerPortal.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
-        "projectName": "CCICustomerPortalApi",
-        "projectPath": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
+        "projectUniqueName": "C:\\work\\customerportalApi\\CustomerPortal.AppHost\\CustomerPortal.AppHost.csproj",
+        "projectName": "CustomerPortal.AppHost",
+        "projectPath": "C:\\work\\customerportalApi\\CustomerPortal.AppHost\\CustomerPortal.AppHost.csproj",
         "packagesPath": "C:\\Users\\daniel.antwi\\.nuget\\packages\\",
-        "outputPath": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\obj\\",
+        "outputPath": "C:\\work\\customerportalApi\\CustomerPortal.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel.antwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,9 +47,19 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Aspire.Dashboard.Sdk.win-x64": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.2.2, )",
+              "autoReferenced": true
+            },
+            "Aspire.Hosting.AppHost": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "Aspire.Hosting.Orchestration.win-x64": {
+              "target": "Package",
+              "version": "[8.2.2, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -64,9 +74,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

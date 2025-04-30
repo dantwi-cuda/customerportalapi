@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EHIealeWcCMdZYZJh56cwt+uAJ01apaqxZunqqI7ht0=",
+  "Source": "CCICustomerPortalApi",
+  "BasePath": "_content/CCICustomerPortalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

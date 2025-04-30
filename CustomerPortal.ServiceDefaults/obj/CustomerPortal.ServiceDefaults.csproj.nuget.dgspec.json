@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {}
+    "C:\\work\\customerportalApi\\CustomerPortal.ServiceDefaults\\CustomerPortal.ServiceDefaults.csproj": {}
   },
   "projects": {
-    "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {
+    "C:\\work\\customerportalApi\\CustomerPortal.ServiceDefaults\\CustomerPortal.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
-        "projectName": "CCICustomerPortalApi",
-        "projectPath": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
+        "projectUniqueName": "C:\\work\\customerportalApi\\CustomerPortal.ServiceDefaults\\CustomerPortal.ServiceDefaults.csproj",
+        "projectName": "CustomerPortal.ServiceDefaults",
+        "projectPath": "C:\\work\\customerportalApi\\CustomerPortal.ServiceDefaults\\CustomerPortal.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\daniel.antwi\\.nuget\\packages\\",
-        "outputPath": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\obj\\",
+        "outputPath": "C:\\work\\customerportalApi\\CustomerPortal.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel.antwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,9 +47,33 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.Extensions.Http.Resilience": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.10.0, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.9.0, )"
             }
           },
           "imports": [

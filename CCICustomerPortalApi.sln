@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCICustomerPortalApi", "CCICustomerPortalApi\CCICustomerPortalApi.csproj", "{4ED98141-AD12-4C0E-A90D-BF5C157834ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerPortal.ServiceDefaults", "CustomerPortal.ServiceDefaults\CustomerPortal.ServiceDefaults.csproj", "{AA6FE7B5-7C37-4023-8EF7-8F77DF2923D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerPortal.AppHost", "CustomerPortal.AppHost\CustomerPortal.AppHost.csproj", "{3535AA58-75D9-4BA6-B998-A3D8816A93FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{4ED98141-AD12-4C0E-A90D-BF5C157834ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED98141-AD12-4C0E-A90D-BF5C157834ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED98141-AD12-4C0E-A90D-BF5C157834ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6FE7B5-7C37-4023-8EF7-8F77DF2923D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6FE7B5-7C37-4023-8EF7-8F77DF2923D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6FE7B5-7C37-4023-8EF7-8F77DF2923D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6FE7B5-7C37-4023-8EF7-8F77DF2923D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3535AA58-75D9-4BA6-B998-A3D8816A93FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3535AA58-75D9-4BA6-B998-A3D8816A93FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3535AA58-75D9-4BA6-B998-A3D8816A93FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3535AA58-75D9-4BA6-B998-A3D8816A93FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

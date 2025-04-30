@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "compounds": [
+        {
+            "name": "Run all",
+            "configurations": [
+                "Run CCICustomerPortalApi",
+                // "Run store",
+            ]
+        }
+    ],
+    "configurations": [
+        {
+            "name": "Run CCICustomerPortalApi",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj"
+        }
+        // ,
+        // {
+        //     "name": "Run store",
+        //     "type": "dotnet",
+        //     "request": "launch",
+        //     "projectPath": "${workspaceFolder}\\Store\\Store.csproj"
+        // }
+    ]
