@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomerPortal.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ba4df789cbefb849e064e5f3659f3beb4c1db4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897208e0ab9e4c145a1deca24d2481527500257f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomerPortal.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomerPortal.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

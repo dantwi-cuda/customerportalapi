@@ -1,3 +1,6 @@
 {
-  "dotnet.defaultSolution": "CCICustomerPortalApi.sln"
+  "dotnet.defaultSolution": "CCICustomerPortalApi.sln",
+  "dataworkspace.excludedProjects": [
+    "CustomerPortalDB/CustomerPortalDB.sqlproj"
+  ]
 }

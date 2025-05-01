@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {}
+    "C:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {}
   },
   "projects": {
-    "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {
+    "C:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
+        "projectUniqueName": "C:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
         "projectName": "CCICustomerPortalApi",
-        "projectPath": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
+        "projectPath": "C:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
         "packagesPath": "C:\\Users\\daniel.antwi\\.nuget\\packages\\",
-        "outputPath": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\obj\\",
+        "outputPath": "C:\\work\\customerportalApi\\CCICustomerPortalApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel.antwi\\AppData\\Roaming\\NuGet\\NuGet.Config",

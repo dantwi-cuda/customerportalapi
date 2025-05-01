@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AdqtikEp0GM=",
+  "dgSpecHash": "oYuy5cVAV64=",
   "success": true,
-  "projectFilePath": "c:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
+  "projectFilePath": "C:\\work\\customerportalApi\\CCICustomerPortalApi\\CCICustomerPortalApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.antwi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\daniel.antwi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
