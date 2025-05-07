@@ -1,1 +1,10 @@
 GET http://localhost:5211/weatherforecast
+
+// Swagger UI documentation
+GET http://localhost:5211/api-docs
+
+// Alternative IP address
+http://127.0.0.1:5211
+
+// Swagger docs using IP address
+GET http://127.0.0.1:5211/api-docs

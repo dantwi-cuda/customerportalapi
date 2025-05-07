@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CCICustomerPortalApi</name>
+    </assembly>
+    <members>
+        <member name="T:CCICustomerPortalApi.Migrations.CustmoerPoralMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:CCICustomerPortalApi.Migrations.CustmoerPoralMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CCICustomerPortalApi.Migrations.CustmoerPoralMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CCICustomerPortalApi.Migrations.CustmoerPoralMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
